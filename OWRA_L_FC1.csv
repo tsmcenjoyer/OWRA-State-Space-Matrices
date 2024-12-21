@@ -1,6 +1,0 @@
-FC1,del eC,del AC,del RC
-del eLC,1,0,0
-del eRC,1,0,0
-del ALC,0,1,0
-del ARC,0,-1,0
-del RC,0,0,1
